@@ -1,0 +1,9 @@
+streamlit
+transformers==4.55.0
+torch
+spacy==3.8.7
+pandas
+scikit-learn
+rouge-score
+sentencepiece
+accelerate
